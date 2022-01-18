@@ -5,3 +5,4 @@ To Decrypte your message, Just repeat the exact same steps and configs and paste
 
 All information for this project came from https://en.wikipedia.org/wiki/Enigma_rotor_details , Much appreciation
 Maybe  i'll make a gui in the future for this project
+Also goodluck reading the code, I couldn't even read it since it was a long time ago
